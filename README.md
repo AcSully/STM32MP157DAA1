@@ -1,5 +1,6 @@
 # STM32MP157DAA1
 正点原子STM32MP157 支持硬件版本V1.4
+
 tf-a:
 1. UART
 2. RCC
