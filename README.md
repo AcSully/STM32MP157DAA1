@@ -1,5 +1,5 @@
 # STM32MP157DAA1
-正点原子STM32MP157 支持硬件版本V1.4
+正点原子STM32MP157 支持V1.4硬件版本
 
 tf-a:
 1. UART
