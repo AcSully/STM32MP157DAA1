@@ -7,7 +7,7 @@ tf-a:
 3. SDMMC2 - EMMC
 4. BSEC
 
-optee-os
+optee-os:
 1. UART
 2. BSEC
 3. ETZPC
@@ -16,7 +16,7 @@ optee-os
 6. RNG
 7. RTC
 
-u-boot
+u-boot:
 1. UART
 2. LCD
 3. ETHERNET
@@ -37,7 +37,7 @@ u-boot
 18. USBOTG_HS
 19. USB_PHYC
 
-kernel
+kernel:
 1. UART
 2. LCD
 3. ETHERNET
